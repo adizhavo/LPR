@@ -1,6 +1,6 @@
 # LPR
 
-https://youtu.be/YnLU98IplNM
+[![License plate recognition](http://img.youtube.com/vi/YnLU98IplNM/0.jpg)](https://youtu.be/YnLU98IplNM)
 
 This application is capable of localizing and recognizing license plates of European cars.
 It goes through several steps from machine learning, image processing, code acquisition and OCR .
